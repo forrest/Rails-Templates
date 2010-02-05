@@ -717,7 +717,6 @@ run "touch tmp/.gitignore log/.gitignore vendor/.gitignore"
 file ".gitignore", <<-END
 log/*.log
 tmp/**/*
-config/database.yml
 db/*.sql
 END
  
