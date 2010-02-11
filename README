@@ -3,4 +3,4 @@ Rails Templates
 
 This is the first of several Rails application templates that I plan to make. I used a lot of code from various RailsCasts with Ryan Bates, and the www.binarylogic.com blog which produces the AuthLogic gem. These have both been great resources and I recommend you check them out.
 
-NOTE: I decided I wanted this all in a single file, rather than splitting the code into numerous generators. I found this easier for my purposes, but I realize it makes for ugly code.
+NOTE: I decided I wanted this all in a single file, rather than splitting the code into numerous generators. I realize it makes for ugly code. If you know a way to have multiple files in a template without resorting to generators, I would love to hear it. 

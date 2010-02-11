@@ -1,4 +1,4 @@
-# template.rb
+# multiuser.rb
 
 puts "Installing gems"
 
@@ -9,6 +9,8 @@ puts "Installing gems"
 gem "mysql"
 gem "actionmailer"
 gem "authlogic"
+gem "mocha"
+gem "factory_girl", :source => "http://gemcutter.org"
 rake "gems:install", :sudo => true
  
  
